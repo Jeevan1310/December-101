@@ -8,5 +8,5 @@ Not defined till now
 
 Date - 01/12/2022
 
-Created a repository as a first step and prepared
+Created a repository as a first step and prepared section uploading daily reporting
 
