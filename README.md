@@ -21,3 +21,10 @@ As a second step i have created a shell  program to break the wifi password of a
 Date - 06/12/2022
 
 As a Third step i have created a python  program to pint an logo
+
+### Activity Report
+
+Date - 07/12/2022
+
+As a Third step i have created a python  program to encrypt a password
+
